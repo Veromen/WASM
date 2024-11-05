@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f55299ff-804f-40ee-9627-1eb51b56e7c9" name="Changes" comment="byopp" />
+    <list default="true" id="f55299ff-804f-40ee-9627-1eb51b56e7c9" name="Changes" comment="byopp">
+      <change afterPath="$PROJECT_DIR$/engine-web-ifc/.streamlit/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/engine-web-ifc/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/engine-web-ifc/app.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +55,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\smh\PycharmProjects\WASM\engine-web-ifc" />
       <recent name="C:\Users\smh\PycharmProjects\WASM\engine_web-ifc" />
       <recent name="C:\Users\smh\PycharmProjects\WASM\engine_web-ifc2" />
     </key>
@@ -120,7 +125,28 @@
       <option name="presentableId" value="LOCAL−00007" />
       <updated>1730796617966</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL−00008" summary="byopp">
+      <option name="closed" value="true" />
+      <created>1730796754589</created>
+      <option name="number" value="LOCAL−00008" />
+      <option name="presentableId" value="LOCAL−00008" />
+      <updated>1730796754589</updated>
+    </task>
+    <task id="LOCAL−00009" summary="byopp">
+      <option name="closed" value="true" />
+      <created>1730796862372</created>
+      <option name="number" value="LOCAL−00009" />
+      <option name="presentableId" value="LOCAL−00009" />
+      <updated>1730796862372</updated>
+    </task>
+    <task id="LOCAL−00010" summary="byopp">
+      <option name="closed" value="true" />
+      <created>1730796895632</created>
+      <option name="number" value="LOCAL−00010" />
+      <option name="presentableId" value="LOCAL−00010" />
+      <updated>1730796895632</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
